@@ -1,0 +1,12 @@
+[general]
+name=Oktatási semlegesvonal
+qgisMinimumVersion=3.34
+description=Interaktív, állandó meredekségű nyomvonal-tervező DEM-en.
+about=Oktatási QGIS plugin. B-spline DEM mintavételezéssel mutatja meg az adott lépéshosszal és előjeles meredekséggel pontosan elérhető következő pontokat.
+version=1.1.0
+author=Soproni Egyetem
+email=
+category=Raster
+tags=dem,slope,neutral line,forest road,education
+experimental=false
+deprecated=false
